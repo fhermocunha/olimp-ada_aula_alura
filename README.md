@@ -1,4 +1,4 @@
-## **README.md - Buscador de Atletas Brasileiros - Imersão DEV Alura com Google Gemini **
+## **Buscador de Atletas Brasileiros - Imersão DEV da Alura com Google Gemini **
 
 ### **O que faz essa aplicação?**
 
